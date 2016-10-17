@@ -1,6 +1,6 @@
 # Luis Cordero
 
-## Student
+### Student
 
 ### High School of Telcommunication Arts and Technology 
 
